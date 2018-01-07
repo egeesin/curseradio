@@ -40,7 +40,7 @@ CONFIG_DEFAULT = {
         'pageup': 'KEY_PPAGE',
         'pagedown': 'KEY_NPAGE',
         'enter': 'KEY_ENTER',
-        'stop': 'k',
+        'stop': 'p',
         'exit': 'q',
         'favourite': 'f'
     }
