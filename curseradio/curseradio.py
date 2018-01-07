@@ -33,8 +33,8 @@ CONFIG_DEFAULT = {
     'playback': {'command': '/usr/local/bin/mpv'},
     'interface': {'keymap': 'default'},
     'keymap.default': {
-        'up': 'j',
-        'down': 'k',
+        'up': 'k',
+        'down': 'j',
         'start': 'g',
         'end': 'G',
         'pageup': 'KEY_PPAGE',
